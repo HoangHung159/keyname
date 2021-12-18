@@ -1,0 +1,13 @@
+@media (min-width: 740px) and (max-width: 1023px) {
+    span {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media(max-width: 739px) {
+    span {
+        width: 54px;
+        height: 54px;
+    }
+}
